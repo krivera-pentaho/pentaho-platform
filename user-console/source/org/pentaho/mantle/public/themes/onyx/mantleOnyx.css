@@ -1,3 +1,8 @@
+.IE8 #adminContentPanel,
+.IE8 #adminCatTree,
+.IE8 .schedulerPerspective-wrapper {
+  background: url('images/wt_transparent.png') repeat;
+}
 #adminContentPanel {
   margin-left: 20px;
   padding: 10px;
